@@ -5,6 +5,7 @@ Hi, I'm Nahara.  I love coffee, cats, and music. :coffee: :musical_score: When I
 Languages and Tools:
   python, java, tensorflow, react, linux...
   
+Interests: Crypto, AI/ML, neurosci, OpenSource...  
   
 <!--
 **nahara7/nahara7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
