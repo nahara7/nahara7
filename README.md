@@ -5,7 +5,7 @@ Hi, I'm Nahara.  I love coffee, cats, and music. :coffee: :musical_score: When I
 Languages and Tools:
   java, spring-boot, python,  tensorflow..., 
   
-Interests: Sustainability and Agriculture, Crypto, AI/ML, OpenSource...  
+Interests: sustainability and agriculture, crypto, AI/ML, open-source...  
   
 <!--
 **nahara7/nahara7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
