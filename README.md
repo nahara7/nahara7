@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Nahara.   I love coffee, cats, and music. :coffee: :musical_score: When I'm not coding im usually painting. I love collaborating and I'm open to all types of projects ! 
+ I'm Nahara.   I love coffee, cats, and music. :coffee: :musical_score: When I'm not coding I'm usually painting. I love collaborating and I'm open to all types of projects ! 
 
 Languages and Tools:
   java, go,  spring-boot, python, docker, helm, kubernetes  tensorflow..., 
