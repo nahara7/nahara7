@@ -5,7 +5,7 @@
 Languages and Tools:
   java, go,  spring-boot, python, docker, helm, kubernetes  tensorflow..., 
   
-Interests: crypto, AI/ML, open-source...  
+Interests: crypto, AI/ML,sustainability, open-source...  
 
   
 <!--
