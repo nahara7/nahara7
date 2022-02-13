@@ -1,12 +1,3 @@
-### Hi there 👋
-
- I'm Nahara.   I love coffee, cats, and music. :coffee: :musical_score: When I'm not coding I'm usually painting. I love collaborating and I'm open to all types of projects ! 
-
-Languages and Tools:
-  java, go,  spring-boot, python, docker, helm, kubernetes  tensorflow..., 
-  
-Interests: crypto, AI/ML, sustainability, open-source...  
-
   
 <!--
 **nahara7/nahara7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
